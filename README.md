@@ -8,11 +8,11 @@ Brief description of the projects or the overall purpose of the repository. Feel
 
 ## Table of Contents
 
-- Seasons of Code'25
-- Summer of Science'25
-- FinSearch'25
-- 
-- 
+-- Seasons of Code'25
+-- Summer of Science'25
+-- FinSearch'25
+-- Loading....
+-- Loading....
 
 
 
