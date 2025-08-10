@@ -1,4 +1,4 @@
-# SiL3nTL00p Repository
+# IITB_Projects
 
 Welcome to the SiL3nTL00p GitHub repository! This repository hosts a collection of projects and code samples developed by SiL3nTL00p.
 
