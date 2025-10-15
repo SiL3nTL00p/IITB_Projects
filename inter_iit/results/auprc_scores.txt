@@ -1,0 +1,5 @@
+Mean auPRC: 0.5407
+
+Per-class auPRC scores:
+Class 1: 0.8145
+Class 2: 0.2669
